@@ -64,14 +64,6 @@ On a mission to become the greatest (ethical) hacker—legally, transparently, a
 ---
 
 ## 📌 Featured projects
-[![nextjs-boilerplate](https://github-readme-stats.vercel.app/api/pin/?username=Razor1911OP&repo=nextjs-boilerplate&theme=transparent&hide_border=true)](https://github.com/Razor1911OP/nextjs-boilerplate)
-- Production‑ready starter I use to spin up dashboards/portals for research and reporting.
-
-[![bitchat-python](https://github-readme-stats.vercel.app/api/pin/?username=Razor1911OP&repo=bitchat-python&theme=transparent&hide_border=true)](https://github.com/Razor1911OP/bitchat-python)
-- Protocol experiments and reliability testing—useful for thinking about threat models.
-
-[![dex2jar](https://github-readme-stats.vercel.app/api/pin/?username=Razor1911OP&repo=dex2jar&theme=transparent&hide_border=true)](https://github.com/Razor1911OP/dex2jar)
-- Reverse‑engineering toolkit for Android DEX → JAR workflows; part of my mobile/RE pipeline.
 
 <!-- Replace/extend with security‑focused tools, wordlist mutators, recon scripts, or lab notes -->
 
